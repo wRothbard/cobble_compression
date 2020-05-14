@@ -59,9 +59,9 @@ minetest.register_craft({
 minetest.register_craft({
 		output = "cobble_compression:octuplecompressed",
 		recipe = {
-				{"cobble_compression:septupletuplecompressed", "cobble_compression:septupletuplecompressed", "cobble_compression:septupletuplecompressed"},
-				{"cobble_compression:septupletuplecompressed", "cobble_compression:septupletuplecompressed", "cobble_compression:septupletuplecompressed"},
-				{"cobble_compression:septupletuplecompressed", "cobble_compression:septupletuplecompressed", "cobble_compression:septupletuplecompressed"},
+				{"cobble_compression:septuplecompressed", "cobble_compression:septuplecompressed", "cobble_compression:septuplecompressed"},
+				{"cobble_compression:septuplecompressed", "cobble_compression:septuplecompressed", "cobble_compression:septuplecompressed"},
+				{"cobble_compression:septuplecompressed", "cobble_compression:septuplecompressed", "cobble_compression:septuplecompressed"},
 				}
 })
 minetest.register_craft({
